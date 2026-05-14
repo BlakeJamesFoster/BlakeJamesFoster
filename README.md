@@ -1,13 +1,13 @@
 # Blake Foster
 
-> Computer Science Student | Web Developer | Problem Solver  
+> Computer Science & Economics Student
 > **he/him** | St. Lawrence University
 
 ---
 
 ## 👋 About Me
 
-I'm a CS student passionate about building web applications and understanding how systems work under the hood. I'm currently diving deep into web programming and computer systems, with a strong foundation in core CS fundamentals.
+I'm a CS student passionate about how systems work under the hood. I'm currently diving deep into web programming and computer systems and security. From this I hope to grow deeper into the CS field becoming more well rounded.
 
 ---
 
@@ -20,9 +20,9 @@ I'm a CS student passionate about building web applications and understanding ho
 
 ## 🎓 Past Coursework
 
-- **CS 110** – Beginning Programming
-- **CS 219** – Intermediate Programming  
-- **CS 256** – Data Structures
+- **CS 110** – Beginning Programming (Python)
+- **CS 219** – Intermediate Programming (Java) 
+- **CS 256** – Data Structures (Java)
 
 ---
 
@@ -43,12 +43,11 @@ Always learning and growing! Actively building projects to apply coursework to r
 
 - **Email:** bfost25@stlawu.edu
 - **LinkedIn:** [foster-blake](https://www.linkedin.com/in/foster-blake/)
-- **GitHub:** [@blakefoster](https://github.com/blakefoster) *(coming soon)*
 
 ---
 
 <div align="center">
 
-**"Code is poetry written for computers and humans to read."**
+**"Don't wait till you are 'someone' to do great things... You are somebody now!"**
 
 </div>
